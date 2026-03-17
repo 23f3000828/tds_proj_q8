@@ -1,0 +1,6 @@
+{
+  "prompt": "A surreal architectural scene. Two separate staircases on opposite sides appear to ascend upward when viewed individually, with people walking upward on each. However, when seen together from a wider perspective, the overall structure forms a continuous downward slope leading into a lower central area. The environment is realistic but slightly uncanny, with consistent lighting and perspective. The geometry subtly contradicts itself. No text, no symbols, no diagrams.",
+  "model": "DALL·E 3",
+  "paradox": "Simpson's paradox",
+  "visual_logic": "Each staircase locally appears to ascend, but together they form a descending structure, showing how local trends reverse when combined."
+}
